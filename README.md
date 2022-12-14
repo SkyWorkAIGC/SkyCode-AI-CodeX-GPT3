@@ -53,7 +53,7 @@ tokenizer = AutoTokenizer.from_pretrained("SkyWork/SkyCode", trust_remote_code=T
 text_generator = TextGenerationPipeline(model, tokenizer, device=0)
 input_str = "if __name__"
 max_new_tokens = 40
-print(text_generator(input_str, max_new_tokens=max_new_tokens, do_sample=True))### 
+print(text_generator(input_str, max_new_tokens=max_new_tokens, do_sample=True))
 ```
 
 ## huggingface模型主页
