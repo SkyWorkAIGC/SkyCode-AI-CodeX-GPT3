@@ -37,7 +37,7 @@ SkyCode是由奇点智源发布的多语言开源编程大模型，采用GPT3模
 
 ```
 推荐
-transformers>=4.16.0
+transformers>=4.18.0
 ```
 
 ## 模型使用
