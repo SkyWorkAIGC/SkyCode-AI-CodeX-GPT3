@@ -1,9 +1,11 @@
 # SkyCode
 
 SkyCode是由奇点智源发布的多语言开源编程大模型，采用GPT3模型结构，使用海量的代码进行训练。支持Java, JavaScript, C, C++, Python, Go, shell等多种主流编程语言，并能理解中文注释。模型可以对代码进行补全，进行解题等操作，使您从编程中解放出来，专心于解决更大的问题。
+![image](https://user-images.githubusercontent.com/120169448/208900581-66f06b02-659b-4666-925e-8bd0138fd34b.png)
+![image](https://user-images.githubusercontent.com/120169448/208900631-c8eae4a3-0fd0-4b5a-a960-01e50c4fe1f1.png)
 
 
-## 项目亮点
+# 项目亮点
 
 1. 技术优势一 ：涵盖多种编程语言
    
@@ -31,7 +33,8 @@ SkyCode是由奇点智源发布的多语言开源编程大模型，采用GPT3模
 
 - [2022.12.15] [昆仑天工AIGC发布会](https://live.vhall.com/v3/lives/subscribe/697547540)
   
-  
+
+——————————————————————————————————————————————————————————
 
 ## 依赖
 
