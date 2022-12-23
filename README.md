@@ -60,3 +60,7 @@ print(text_generator(input_str, max_new_tokens=max_new_tokens, do_sample=True))#
 # License
 
 [MIT License](LICENSE)
+
+# Developer Group
+#### Scan the QR Code below to join in the developer group of SkyCode
+<img width="160" alt="img_v2_40e89a4f-5ec2-4184-b88d-f07a8dbd42dg" src="https://user-images.githubusercontent.com/120169448/209295979-ddae008c-f7d3-4e8c-bd96-b7d9b0d64150.png">
