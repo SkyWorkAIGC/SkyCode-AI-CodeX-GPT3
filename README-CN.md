@@ -68,3 +68,8 @@ https://huggingface.co/SkyWork/SkyCode
 # 版权许可
 
 [MIT License](LICENSE)
+
+# 加入开发者群
+#### 微信扫码，加入SkyCode开发者群：
+<img width="160" alt="img_v2_40e89a4f-5ec2-4184-b88d-f07a8dbd42dg" src="https://user-images.githubusercontent.com/120169448/209295881-4cce8719-67e6-46b4-b1ce-1a114b96ecae.png">
+
