@@ -5,6 +5,7 @@ SkyCode是由奇点智源发布的多语言开源编程大模型，采用GPT3模
 ![image](https://user-images.githubusercontent.com/120169448/208900581-66f06b02-659b-4666-925e-8bd0138fd34b.png)
 ![image](https://user-images.githubusercontent.com/120169448/208900631-c8eae4a3-0fd0-4b5a-a960-01e50c4fe1f1.png)
 
+#### Hugging Face 模型主页：https://huggingface.co/SkyWork/SkyCode
 
 # 项目亮点
 
