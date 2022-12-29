@@ -2,6 +2,7 @@
 
 SkyCode is a multi-language open source programming model released by Singularity-AI. It adopts the GPT3 model structure and uses a large amount of code for training. Support Java, JavaScript, C, C++, Python, Go, shell and other mainstream programming languages, and can understand Chinese comments. The model can complete the code, solve problems and other operations, freeing you from programming and focusing on solving larger problems.
 
+#### Hugging Face home page: https://huggingface.co/SkyWork/SkyCode
 
 ## Project Highlights
 
