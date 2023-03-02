@@ -75,4 +75,9 @@ https://huggingface.co/SkyWork/SkyCode
 
 ![code](https://user-images.githubusercontent.com/120169448/211475834-edce447b-15ed-4534-ba06-1589bb2151c2.jpg)
 
+#### 感兴趣别忘了star一下~
+
+![image](https://user-images.githubusercontent.com/120169448/222312376-9922637f-36e7-4212-b8ce-3d19fc2deb96.png)
+
+
 
